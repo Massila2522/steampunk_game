@@ -9,3 +9,6 @@ This project is an exemple that was built along with a Youtube series showiwng h
 * Create multiple different enemy types with different visuals and behaviours
 * Write JavaScript code from scratch with no frameworks and no libraries
 * Timing and timestamps
+
+# Usage
+Here is the live link of the game: 
