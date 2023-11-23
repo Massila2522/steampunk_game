@@ -16,5 +16,5 @@ To play the game, follow these steps:
 1. Clone the repository.
 2. Open the `index.html` file in your browser.
 
-Alternatively, you can play the game directly [here](live-link).
+Alternatively, you can play the game directly [here](https://massila2522.github.io/steampunk_game/).
 
