@@ -1,5 +1,5 @@
 # Steampunk Game
-This project is an example that was built along with a Youtube series showiwng how to create a 2D game with vanilla JavaScript, HTML5, CSS3 & HTML Canvas with no frameworks and no libraries. The tutorial I followed can be found [here](https://youtu.be/EvC3ge_puQk?si=07ZglEp76BSXBdtw).
+This project is an example that was built along with a Youtube series showing how to create a 2D game with vanilla JavaScript, HTML5, CSS3 & HTML Canvas with no frameworks and no libraries. The tutorial I followed can be found [here](https://youtu.be/EvC3ge_puQk?si=07ZglEp76BSXBdtw).
 
 # What I Learned
 * Object oriented programming with JavaScript
